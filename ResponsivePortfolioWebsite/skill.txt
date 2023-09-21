@@ -1,0 +1,37 @@
+Администрирование Windows Server
+Администрирование Linux
+Администрирование MsSQL
+Администрирование  MySQL
+Настройка и админстрирование сетевого оборудования
+Настройка и админстрирование мини-АТС
+Поддержка пользователей
+Внедрение нового ПО
+Проектирование сетей
+
+Windows Server Administration 85
+Linux Administration 30
+MS SQL Administration 65
+MySQL Administration 65
+Network Equipment Configuration and Administration 85
+Mini-PBX Configuration and Administration 70
+User Support 97
+Implementation of New Software 95
+Network Design 90
+
+Конфигурирование и сборка ПК
+Конфигурирование и сборка серверов
+Прокладка локальных сетей
+Монтаж стоек и серверного оборудования
+Диагностика неисправностей ПК
+Обслуживание офисной оргтехники
+Техническое обслуживание оборудования
+Мелкий ремонт оборудования
+
+PC Configuration and Assembly
+Server Configuration and Assembly
+Local Area Network Installation
+Rack and Server Equipment Installation
+PC Troubleshooting
+Office Equipment Maintenance
+Technical Equipment Servicing
+Minor Equipment Repairs
