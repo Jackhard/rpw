@@ -12,10 +12,10 @@
 }
 
 :root {
-	--bg-color: #081b29; 
-	--second-bg-color: #112e42; 
+	--bg-color: #092815; /* #081b29 #092815 */
+	--second-bg-color: #104315; /* #112e42 #104315 */
 	--text-color: #ededed; 
-	--main-color: #00abf0; 
+	--main-color: #00F042; /* #00abf0 #00F042 */
 }
 
 html {
@@ -88,7 +88,7 @@ section {
 	display: flex;
 	align-items: center;
 	padding: 0 9%;
-	background: url('../images/home.jpg') no-repeat;
+	background: url('../images/cv_grad.jpg') no-repeat;
 	background-size: cover;
 	background-position: center;
 	
